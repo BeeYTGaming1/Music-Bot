@@ -1,5 +1,5 @@
 <h1 align="center"><img src="./assets/logo.gif" width="30px"> Discord Music Bot <img src="./assets/logo.gif" width="30px"></h1>
-<p align="center">Thanks for 25k Views with 500 subs!</p>
+<p align="center">Thanks for Read!</p>
 
 ## ✨Latest Updates✨
 
@@ -16,12 +16,13 @@
 
 > NOTE: Lavalink is needed for music functionality. You need to have a working Lavalink server to make the bot work.
 
-
+## 🆘 Need Help
+- **Add friend me �JustDio#9277**
 ## 📝 Tutorial
 
 A Tutorial has been uploaded on YouTube, Watch it by clicking [here](https://www.youtube.com/watch?v=p4lP96Tiv9s)
 
-## 📝 [Support Server](https://discord.gg/sbySMS7m3v)
+## 📝 [Support Server](https://discord.gg/yUepRmEsx8)
 
 ### **DO NOT JOIN OUR DISCORD FOR DASHBOARD ISSUES AND LAVALINK ISSUES. WE WILL NOT HELP YOU.**
 
